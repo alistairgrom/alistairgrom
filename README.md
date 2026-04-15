@@ -1,4 +1,4 @@
-# Hi, I'm Alistair 👋
+## Who I am
 
 Backend & Full-Stack Software Engineer at Reply based in London. I've spent the past 4 years building software at scale across different industries such as Fintech and Government Digital Services. I graduated from Swansea University in BSc Computer Science writing my dissertation in Recommender Systems. 
 
