@@ -32,5 +32,5 @@ I'm currently spending time expanding my knowledge of Golang for API development
 ## Reach out
 
 - Email: [alistairgrom@gmail.com](mailto:alistairgrom@gmail.com)
-- LinkedIn: [alistairgrom](https://linkedin.com/in/alistairgrom)
+- LinkedIn: [alistairgrom](https://www.linkedin.com/in/alistair-grom-507615217/)
   
