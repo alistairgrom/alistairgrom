@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Alistair 👋
 
-<!--
-**alistairgrom/alistairgrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Full-Stack Software Engineer at Reply based in London. I've spent the past 4 years building software at scale across different industries such as Fintech and Government Digital Services. I gradudated from Swansea University in Computer Science writing my dissertation in Recommender Systems. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+`Java` `TypeScript / JavaScript` `Python`
+
+**Frameworks & Libraries**
+`Spring Boot` `Express` `FastAPI` `Flask` `Nunjucks`
+
+**Data Stores**
+`PostgreSQL` `Redis`
+
+**Cloud & Infrastructure**
+`AWS` `GCP Apigee` `Docker` `Kubernetes` `Jenkins`
+
+**Testing & Observability**
+`Mocha` `Chai` `Cucumber` `Prometheus` `Graylog`
+
+---
+
+## Get in Touch
+
+- Email: [alistairgrom@gmail.com](mailto:alistairgrom@gmail.com)
+- LinkedIn: [alistairgrom](https://linkedin.com/in/alistairgrom)
+  
