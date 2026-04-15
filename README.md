@@ -4,7 +4,7 @@ Backend & Full-Stack Software Engineer at Reply based in London. I've spent the 
 
 ---
 
-## Tech Stack
+## Technologies
 
 **Languages**
 `Java` `TypeScript / JavaScript` `Python`
@@ -29,7 +29,7 @@ I'm currently spending time expanding my knowledge of Golang for API development
 
 ---
 
-## Get in Touch
+## Reach out
 
 - Email: [alistairgrom@gmail.com](mailto:alistairgrom@gmail.com)
 - LinkedIn: [alistairgrom](https://linkedin.com/in/alistairgrom)
