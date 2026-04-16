@@ -24,7 +24,7 @@ Backend & Full-Stack Software Engineer at Reply based in London. I've spent the 
 
 ## What I'm learning
 
-I'm currently spending time expanding my knowledge of Golang for API development and exploring AI workflows to enhance developer experience across Reply.
+I'm currently spending time expanding my knowledge of Golang for API development and creating AI workflows to enhance developer experience across Reply.
 
 ---
 
