@@ -8,8 +8,8 @@ Backend & Full-Stack Software Engineer at Reply based in London. I've spent the 
 **Languages**
 `Java` `TypeScript / JavaScript` `Python`
 
-**Frameworks & Libraries**
-`Spring Boot` `Express` `FastAPI` `Flask` `Nunjucks`
+**Frameworks, Libraries & Technologies**
+`Spring Boot` `Node.js` `Express` `FastAPI` `Flask` `Nunjucks`
 
 **Data Stores**
 `PostgreSQL` `Redis`
